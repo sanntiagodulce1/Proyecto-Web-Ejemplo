@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Mi Proyecto-Web-Ejemplo.</title>
-  </head>
+
+    <title>
+    Mi Proyecto-Web-Ejemplo.
+    </title>
+
   <title>
   <h1>Bienvenido a mi sitio web de evaluacion</h1>
   </title>
